@@ -1,0 +1,16 @@
+# Maven
+/target/
+
+# IDEs
+/.idea/
+/.vscode/
+/*.iml
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+
+# Configuración sensible
+application.properties
